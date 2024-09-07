@@ -18,7 +18,6 @@ jobs:
       - name: Commit & Push
         run: |
           git config user.name Vegetable-SYC
-          git config user.email andrej.marinchenko@gmail.com
           git add -A .
           git commit -m "generated"
           git push
