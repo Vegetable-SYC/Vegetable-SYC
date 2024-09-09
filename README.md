@@ -14,3 +14,8 @@
 </p>
 
 ![Vegetable-SYC's github activity graph](https://raw.githubusercontent.com/Vegetable-SYC/Vegetable-SYC/output/github-contribution-grid-snake.svg)
+
+![Vegetable-SYC's github activity graph](https://raw.githubusercontent.com/Vegetable-SYC/Vegetable-SYC/output/profile-3d-contrib.svg
+
+)
+

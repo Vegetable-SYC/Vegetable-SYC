@@ -17,6 +17,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
+          mv profile-3d-contrib.svg output/profile-3d-contrib.svg
+
           git config user.name "Vegetable-SYC"
           git config user.email "1318270340@qq.com"
           git add -A .
