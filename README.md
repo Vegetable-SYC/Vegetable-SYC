@@ -1,4 +1,4 @@
-# Hi!
+# Hi! I am SYC!!
 
 ![](assets/Bottom_up.svg)
 
