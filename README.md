@@ -13,6 +13,5 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Vegetable-SYC.Vegetable-SYC" alt="visitors"/>   
 </p>
 
-![Vegetable-SYC's github activity graph](https://raw.githubusercontent.com/Vegetable-SYC/Vegetable-SYC/output/github-contribution-grid-snake.svg)
 
 ![](assets/Bottom_down.svg)
